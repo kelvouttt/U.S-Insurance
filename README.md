@@ -1,5 +1,6 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/kelvouttt/U.S-Insurance/blob/main/us-medical-insurance-costs.ipynb "U.S Insurance Medical Costs")
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 # U.S Medical Insurance Cost
 
@@ -15,3 +16,4 @@ If you don't have the access to open the notebook, here is the [link](https://nb
 
 ### Limitation
 There are few things that limit my exploration in the data. I still have to learn about transforming a multi-dimensional list to a 1 dimension list so that I can loop through everything. In the near future, I will add more functionality to the project and I will add a class object to make the analysis more structural. Further, I will also perform data visualization on the data.
+
