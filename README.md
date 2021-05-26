@@ -7,7 +7,7 @@
 This is the portfolio project from Codecademy to analyze the medical insurance record in the U.S region. This analysis only provides some basic functions and insights that was created originally by me. The goal of this project is to analyze some factors that contribute to the difference in the insurance cost. 
 
 ### Jupyter Live Preview
-If you don't have the access to open the notebook, here is the [link](https://nbviewer.jupyter.org/github/kelvouttt/U.S-Insurance/blob/main/us-medical-insurance-costs.ipynb "U.S Insurance Medical Costs") on nbviewer or from my [Kaggle](https://www.kaggle.com/kelvingunawan/life-expectancy-and-gdp-analysis) kernel.
+If you don't have the access to open the notebook, here is the [link](https://nbviewer.jupyter.org/github/kelvouttt/U.S-Insurance/blob/main/us-medical-insurance-costs.ipynb "U.S Insurance Medical Costs") to the nbviewer.
 
 
 ### Libraries
